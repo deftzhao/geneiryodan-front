@@ -14,6 +14,12 @@ body {
     position: relative;
 }
 
+.myVideo {
+    position: fixed;
+    min-width: 80%;
+    min-height: 80%;
+}
+
 .background-image {
     background: url(./assets/image\ 1.png) no-repeat center center;
     background-size: contain;
